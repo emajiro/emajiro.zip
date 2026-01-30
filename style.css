@@ -8,8 +8,7 @@ body {
   margin: 0;
   color: aliceblue;
   background-color: #000000;
-  max-width: 60rem;
-  padding: 0 1rem;
+  padding: 0;
   font-family: system-ui, sans-serif;
 }
 
@@ -24,6 +23,7 @@ p {
 
 footer {
   display: flex;
+  flex-wrap: wrap;
   text-align: center;
   margin: 0;
   margin-top: 0.6rem;
@@ -35,6 +35,7 @@ ul {
   list-style: none;
   justify-content: center;
   display: flex;
+  flex-wrap: wrap;
   gap: 1.5rem;
   padding: 0;
   margin: 0.5rem;
