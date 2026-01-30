@@ -1,2 +1,2 @@
-# emajiro.zip
-website!!!
+## emajiro.zip
+this is a copyleft site! take what u want!
