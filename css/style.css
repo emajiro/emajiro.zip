@@ -1,0 +1,60 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  min-width: 100vw;
+  margin: 0;
+  color: aliceblue;
+  background-color: #000000;
+  max-width: 60rem;
+  padding: 0 1rem;
+  font-family: system-ui, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+  margin-bottom: 0.9rem;
+}
+p {
+  margin: 0;
+}
+
+footer {
+  display: flex;
+  text-align: center;
+  margin: 0;
+  margin-top: 0.6rem;
+  font-size: 0.7rem;
+  opacity: 0.4;
+}
+
+ul {
+  list-style: none;
+  justify-content: center;
+  display: flex;
+  gap: 1.5rem;
+  padding: 0;
+  margin: 0.5rem;
+}
+
+a {
+  color: #3859ff;
+}
+.youtube {
+  color: #ff8888;
+}
+.bsky {
+  color: #98d1ff;
+}
+.github {
+  color: #d4d4d4;
+}
+.steam {
+  color: #a1aeff;
+}
+.discord {
+  color: #b19fff;
+}
