@@ -1,2 +1,2 @@
 ## emajiro.zip
-this is a copyleft site! take what u want!
+this is a copyleft site! use what u want!
