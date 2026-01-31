@@ -13,22 +13,21 @@ body {
   font-size: 1.8rem;
 }
 
+main {
+  padding: 1rem;
+  text-align: center;
+}
+
 h1 {
   text-align: center;
   margin: 0;
-}
-p {
-  margin: 0;
+  font-size: clamp(2.8rem, 12vw, 3.8rem);
+  line-height: 1;
+  margin-bottom: 0.8rem;
 }
 
-footer {
-  display: flex;
-  flex-wrap: wrap;
-  text-align: center;
+p {
   margin: 0;
-  margin-top: 0.6rem;
-  font-size: 1.5rem;
-  opacity: 0.4;
 }
 
 ul {
@@ -37,8 +36,16 @@ ul {
   display: flex;
   flex-wrap: wrap;
   gap: 1.5rem;
+  row-gap: 0.1rem;
   padding: 0;
   margin: 0.5rem;
+}
+
+.footer {
+  margin: 0;
+  margin-top: 0.6rem;
+  font-size: 1.5rem;
+  opacity: 0.4;
 }
 
 a {
