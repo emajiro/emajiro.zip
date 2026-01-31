@@ -4,8 +4,7 @@ body {
   justify-content: center;
   align-items: center;
 
-  min-height: 100svh;
-  min-width: 100svw;
+  min-height: 100dvh;
 
   margin: 0;
   color: aliceblue;
